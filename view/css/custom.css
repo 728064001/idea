@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { margin:0; padding:0}
+#nav { background-color:#065FBA}
+.nva-font {color:#FFF; font-size:15px}
+#logo{ font-weight: bold; font-family:Tahoma, Geneva, sans-serif; font-size:36px; color:#FFF}
+
+#search1 { border-radius:5px; border:0; width:350px; height:35px;}
+
+#sendidea1 { width:50px; height:35px; border-radius:5px; background-color:#0E77E4; border:1px;}
+
