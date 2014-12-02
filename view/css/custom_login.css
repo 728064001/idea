@@ -1,0 +1,27 @@
+/* CSS Document */
+body { margin:0; padding:0}
+#head { background-color:#1281DA}
+#div_login {	position:absolute;
+	width:315px;
+	height:300px;
+	z-index:1;
+	}
+#div_regester {
+	position:absolute;
+	width:315px;
+	height:300px;
+	z-index:2;
+
+}
+.head_left1 { color:#FFF; font-size:100px; font-weight:bold}
+.head_left2 { color:#FFF; font-size:26px; font-weight:bold}	
+.login_head_txt { font-size:14px; font-family:Arial, Helvetica; color:#FFF;}
+
+
+.login_enter {border-radius:5px; border:1px;height:30px;  width:200px; padding-left:7px;}
+#login_button1 { width:210px; background-color:#75BFF8; border-radius:5px; height:30px; border:1px; }
+
+
+.reg_enter_xingming {border-radius:5px; border:1px;height:30px;  width:90px; padding-left:7px; border:1px}
+.reg_enter{ border-radius:5px; border:1px;height:30px;  width:200px; padding-left:7px; border:1px}
+.reg_button1 {width:210px; background-color:#75BFF8; border-radius:5px; height:30px; border:1px;}
