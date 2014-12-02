@@ -18,6 +18,8 @@ body { margin:0; padding:0}
 .login_head_txt { font-size:14px; font-family:Arial, Helvetica; color:#FFF;}
 
 
+#miidel { background-color:#EFF2F5; color:#CCC; font-size:14px	}
+
 .login_enter {border-radius:5px; border:1px;height:30px;  width:200px; padding-left:7px;}
 #login_button1 { width:210px; background-color:#75BFF8; border-radius:5px; height:30px; border:1px; }
 
